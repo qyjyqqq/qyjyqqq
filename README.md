@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">💥 <b>˗ˏˋ welcome to qyjyqqq's radar ˎˊ˗</b> 💥</h1>
-  <sub>⚡ 📄 ─── "DIE! ..and get out of my way!!" ─── 📄 ⚡</sub>
+  <sub>⚡ 📄 ─── "get out of my way!!" ─── 📄 ⚡</sub>
   <br><br>
   <sub>☄️ 𓏵 💥 〰 🔥 〰 💥 𓏵 ☄️</sub>
 </div>

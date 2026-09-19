@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">💥 <b>˗ˏˋ welcome to qyjyqqq's radar ˎˊ˗</b> 💥</h1>
+  <sub>⚡ 📄 ─── "DIE! ..and get out of my way!!" ─── 📄 ⚡</sub>
+  <br><br>
+  <sub>☄️ 𓏵 💥 〰 🔥 〰 💥 𓏵 ☄️</sub>
+</div>
 
-<!--
-**qyjyqqq/qyjyqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <sub>💥 ˚｡⋆about this system⋆｡˚ 💥</sub>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<blockquote>
+  <p>
+    💥 <b>user:</b> qyj_jyqqq / delphin_xo <br>
+    💥 <b>status:</b> damn you extras <br>
+    💥 <b>pronouns:</b> any pronouns<br>
+    💥 <b>current song:</b> T.N.T ⋆⁺₊⋆ by AC/DC 🎧
+  </p>
+</blockquote>
+
+---
+
+### 🚧📂 main inventory ──  💣 explosive modules 🚧 under construction🚧
+* 🧨 **`.//`** — *coming soon / building sparks...* 🚧
+* 🐍 **`.//`** — *coming soon / building sparks...* 🚧
+* ⏳ **`.//`** — *coming soon / building sparks...* 🚧
+---
+
+### 🧨 guidelines
+<blockquote>
+  feel free to: fork, learn from, and get inspired by these repositories<br>
+  do <strong>NOT</strong>: repost or copy as your own work without giving proper credit<br>
+</blockquote>
+
+---
+
+### 🌐 comms
+* 🌌 **Discord:** [delphin_xo](https://discord.com/users/851368832273743873)
+
+---
+
+<p align="center">
+  <sub>✧ 𓏵 ⚙️ 〰 💣 〰 ⚙️ 𓏵 ✧</sub><br><br>
+  <b>If everyone's special to you, then in actuality, no one is.</b>
+</p>
